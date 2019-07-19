@@ -2,8 +2,7 @@
 
 ------------
 
-**Foi utilizado para o Desenvolvimento da API:
-**
+**Foi utilizado para o Desenvolvimento da API:**
 - Linguagem de programação Java
 - Spring Boot
 - Spring Data
